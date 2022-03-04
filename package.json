@@ -1,0 +1,15 @@
+{
+  "name": "seleniumtest",
+  "version": "1.0.0",
+  "description": "Selenium_InsideOut_Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikolay",
+  "license": "MIT",
+  "keywords": [],
+  "dependencies": {
+    "selenium-webdriver": "^4.1.1"
+  }
+}
